@@ -12,5 +12,6 @@ $ pip3 install cryptocompare
 $ pip install pygame
 ```
 `cryptocompare`: This package is used for accessing cryptocurrency data.
+
 `pygame`: This package is used for playing MP3 files.
 
